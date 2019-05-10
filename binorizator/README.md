@@ -5,7 +5,7 @@
 
 Тестовые изображения лежат в папке Dataset, результаты - в Result. 
 
-Код выполнен на двух языках: на Python (файл `Binorization.ipynb`) и на С++ (binorizator.cpp).
+Код выполнен на двух языках: на Python (файл `Binorization.ipynb`) и на С++ (`binorizator.cpp`).
 
 Все результаты по анализу работы алгоритма представлены в ноутбуке `Binorization.ipynb`.
 
