@@ -21,4 +21,4 @@ g++ binorizator.cpp -o img-display `pkg-config --cflags --libs opencv`
 ./img-display <Имя исходного файлв> <Куда сохранить результат>
 ```
 
-
+Для простоты просмотра ноутбука есть pdf версия - `Binorization.pdf`
